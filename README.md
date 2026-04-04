@@ -31,8 +31,8 @@
 
 ### 电子邮箱
 
-- **主要**: CyanXLabqiyun@outlook.com
-- **备用**: CyanXLab@proton.me
+- **主要**: zjq0107qiyun@outlook.com
+- **备用**: zjq0107@proton.me
 
 ### 捐赠支持
 
@@ -45,7 +45,7 @@
 
 ## 项目
 
-- [DarkNet Blog](https://github.com/blog) - 暗网风格个人博客系统
+- [DarkNet Blog](https://github.com/CyanXLab/blog) - 暗网风格个人博客系统
 
 ---
 
