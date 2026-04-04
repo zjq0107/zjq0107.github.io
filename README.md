@@ -2,8 +2,8 @@
 
 &gt; 在数字荒原中游荡的开发者，探索代码与文化的边界。
 
-[![GitHub](https://img.shields.io/badge/GitHub-zjq0107-181717?style=flat-square&logo=github)](https://github.com/zjq0107)
-[![Twitter](https://img.shields.io/badge/X-@zjq0107-000000?style=flat-square&logo=x)](https://x.com/zjq0107)
+[![GitHub](https://img.shields.io/badge/GitHub-CyanXLab-181717?style=flat-square&logo=github)](https://github.com/CyanXLab)
+[![Twitter](https://img.shields.io/badge/X-@CyanXLab-000000?style=flat-square&logo=x)](https://x.com/cyanxlab)
 [![Bilibili](https://img.shields.io/badge/哔哩哔哩-CyanXLab-00A1D6?style=flat-square&logo=bilibili)](https://space.bilibili.com/1934156474)
 
 ---
@@ -24,15 +24,15 @@
 
 | 平台 | 账号 | 链接 |
 |------|------|------|
-| GitHub | zjq0107 | [github.com/zjq0107](https://github.com/zjq0107) |
-| X (Twitter) | @zjq0107 | [x.com/zjq0107](https://x.com/zjq0107) |
+| GitHub | CyanXLab | [github.com/CyanXLab](https://github.com/CyanXLab) |
+| X (Twitter) | @CyanXLab | [x.com/CyanXLab](https://x.com/CyanXLab) |
 | 哔哩哔哩 | CyanXLab | [space.bilibili.com/1934156474](https://space.bilibili.com/1934156474) |
 | Discord | CyanXLab Server | [链接](https://discord.com/channels/1475824784133853336) |
 
 ### 电子邮箱
 
-- **主要**: zjq0107qiyun@outlook.com
-- **备用**: zjq0107@proton.me
+- **主要**: CyanXLabqiyun@outlook.com
+- **备用**: CyanXLab@proton.me
 
 ### 捐赠支持
 
